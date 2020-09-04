@@ -48,7 +48,7 @@
     "knockout": "~3.5.1",
     "latest-version": "~5.1.0",
     "locks": "~0.2.2",
-    "lodash": "~4.17.19",
+    "lodash": "~4.17.20",
     "memorystore": "~1.6.2",
     "mkdirp": "~1.0.4",
     "moment": "~2.27.0",
