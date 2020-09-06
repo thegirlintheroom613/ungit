@@ -35,7 +35,7 @@
     "bootstrap": "~3.4.1",
     "cookie-parser": "~1.4.5",
     "crossroads": "~0.12.2",
-    "diff2html": "~3.1.11",
+    "diff2html": "~3.1.12",
     "dnd-page-scroll": "0.0.4",
     "express": "~4.17.1",
     "express-session": "~1.17.1",
